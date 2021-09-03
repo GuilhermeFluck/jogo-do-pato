@@ -1,0 +1,25 @@
+body{
+  background: url('https://bit.ly/2Q4q14a');
+}
+.menu{
+  width: 35%;
+  height: 40%;
+  margin: 200px auto;
+  text-align: center;
+  padding: 20px;
+  background: rgba(223, 222, 222, 0.527);
+  border-radius: 15px;
+}
+select{
+  width: 150px;
+  border-radius: 8px;
+  border: #fff 0 solid;
+  font-size: 1.5rem;
+}
+.menu img {
+  width: 50%;
+}
+b{
+  font-size: 1.2rem;
+  font-weight: 800;
+}
